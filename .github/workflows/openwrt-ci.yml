@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@myop
+        uses: actions/checkout@master
         with:
           ref: myop
 
